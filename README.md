@@ -1,4 +1,4 @@
-# Graph Toolkit in C++
+# Graph Visualizer in C++
 
 A modular graph processing toolkit implemented in C++.
 
