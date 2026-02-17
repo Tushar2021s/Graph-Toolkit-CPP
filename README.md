@@ -11,7 +11,7 @@ A modular graph processing toolkit implemented in C++.
 - Prim’s Minimum Spanning Tree
 - Kruskal’s Minimum Spanning Tree
 - Interactive CLI Menu
-- Loop-based execution (run multiple algorithms without restart)
+
 
 ## Project Structure
 
